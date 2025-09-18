@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animasyonlu Başlık -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Engineer+%7C+AI+Specialist;Mobile+Developer+%7C+NLP+Expert;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Engineer" alt="Typing Animation" />
 
 </div>
 
