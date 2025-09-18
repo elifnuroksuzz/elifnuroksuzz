@@ -7,22 +7,6 @@
 
 </div>
 
----
-
-## 🎥 About Me Video
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/elifnuroksuzz/elifnuroksuzz/main/assets/about-me-illustration.svg" width="400" alt="About Me Illustration"/>
-
-*👋 Merhaba! Ben Elif Nur Öksüz. AI ve mobil geliştirme alanındaki yolculuğumu anlattığım videom:*
-
-[![Watch Video](https://img.shields.io/badge/▶️_WATCH_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/elifnuroksuzz/elifnuroksuzz/blob/main/assets/video.mp4)
-
-</div>
-
----
-
 ## 👩‍💻 About Me
 
 ```yaml
