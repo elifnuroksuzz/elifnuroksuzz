@@ -1,54 +1,118 @@
-<!-- Profil Banner -->
+# 📌 Elif Nur Öksüz 
+
+````markdown
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/elifnuroksuzz/elifnuroksuzz/blob/main/assets/banner.gif" alt="AI & Mobile Developer" width="100%"/>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="100%" alt="AI & Mobile Development"/>
 </p>
 
-<!-- Selamlama -->
-<h1 align="center">👩‍💻 Merhaba, ben Elif Nur Öksüz</h1>
-<h3 align="center">Computer Engineer | AI & Machine Learning | NLP & Mobile Development</h3>
-
----
-
-### 🚀 Hakkımda
-- 🎓 Yalova Üniversitesi **Bilgisayar Mühendisliği** mezunuyum.  
-- 🤖 **Yapay Zeka, NLP ve Veri Bilimi** alanında projeler geliştiriyorum.  
-- 📱 **Android (Kotlin/Java)** ve mobil uygulama geliştirme konusunda deneyimliyim.  
-- 🧠 TensorFlow, PyTorch, Scikit-learn ile ML/DL modelleri üzerinde çalışıyorum.  
-- 📊 SQL, MongoDB, Streamlit ve Plotly ile veri analizi/dashboards projeleri geliştirdim.  
-- 🌍 Hedefim: Global ölçekte AI & Mobil tabanlı projelerde yer almak ve teknoloji odaklı girişimler kurmak.  
-
----
-
-### 🛠️ Teknoloji Arsenalim
+<!-- Yazı Animasyonu -->
 <p align="center">
-  <!-- Programlama Dilleri -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=1000&lines=Merhaba+👋;Ben+Elif+Nur+Öksüz;Bilgisayar+Mühendisi;Yapay+Zeka+%7C+Makine+Öğrenmesi+%7C+NLP;Android+%26+Mobil+Geliştirme;Araştırmacı+%7C+Üretici+%7C+Takım+Oyuncusu"/>
 </p>
 
 ---
 
-### 🌟 Öne Çıkan Projelerim
-- 🎧 **Kitavox (TÜBİTAK 2209-A)**: Görme engelliler için AI tabanlı sesli kitap asistanı → %95 doğruluk  
-- 📊 **Amazon Dashboard**: Streamlit & Plotly tabanlı interaktif analiz paneli → %30 karar hızında artış  
-- 🎬 **IMDB Sentiment Analysis**: 50.000 yorum → %88 doğruluk, 0.86 F1-score  
-- 💰 **Tracker App (Android)**: Kotlin ile finans takibi → 500+ işlem kapasitesi  
+## 👩‍💻 Hakkımda
+
+```yaml
+name: "Elif Nur Öksüz"
+role: "Computer Engineer | AI & Mobile Developer"
+location: "Yalova, Türkiye 🇹🇷"
+education: 
+  - "Computer Engineering @ Yalova University (2020–2025)"
+  - "International Trade @ Anadolu University (2023–2025)"
+experience: 
+  - "AI Specialist (Young Talent Program, 2025)"
+  - "Project Management Intern (SCA Social, 2025)"
+  - "Software Intern (Tersan Shipyard, 2023)"
+current_focus:
+  - "🤖 Yapay Zeka & NLP Projeleri"
+  - "📱 Android & Kotlin Mobil Uygulamalar"
+  - "📊 Veri Bilimi & Görselleştirme"
+  - "🚀 Global AI Projelerine Katılım"
+````
 
 ---
 
-### 📫 Bana Ulaşın
+## 🎯 Misyon
+
+> “Teknolojiyi erişilebilir, faydalı ve ilham verici hale getirerek **yapay zeka ve mobil geliştirme** alanında küresel ölçekte projelere katkı sunmak. Amacım; yeni nesil AI çözümleri geliştirip topluma fayda sağlayacak girişimler kurmak.”
+
+---
+
+## 🛠️ Teknik Arsenal
+
+### 🤖 AI & Data Science
+
+```python
+class AISpecialist:
+    def __init__(self):
+        self.skills = {
+            "ml_dl": ["TensorFlow", "PyTorch", "Scikit-learn"],
+            "nlp": ["Sentiment Analysis", "Text Classification", "Transformers"],
+            "data": ["Pandas", "NumPy", "Streamlit", "Plotly"],
+            "projects": ["Audiobook Assistant", "IMDB Sentiment", "LLM Explorer"]
+        }
+```
+
+### 📱 Mobile Development
+
+```kotlin
+class AndroidDev {
+    val skills = listOf(
+        "Kotlin", "Java", "RoomDB", "RecyclerView", "ViewModel"
+    )
+    val projects = listOf(
+        "Tracker App", "BiletSatisSinema", "Finance Tracker"
+    )
+}
+```
+
+### ⚙️ Project Management
+
+```bash
+> Agile & Scrum Methodologies
+> Jira, Trello, GitHub Projects
+> Sprint Planning & Team Coordination
+```
+
+---
+
+## 🌟 Öne Çıkan Projeler
+
+* 🎧 **Kitavox (TÜBİTAK 2209-A)** → Görme engelliler için AI tabanlı sesli kitap asistanı (**%95 doğruluk**)
+* 📊 **Amazon Dashboard** → Streamlit & Plotly ile interaktif veri analizi paneli (**%30 karar hızı artışı**)
+* 🎬 **IMDB Sentiment Analysis** → 50.000 yorum analizi → %88 doğruluk, **0.86 F1-score**
+* 💰 **Tracker App (Android)** → Kotlin ile finans takibi (**500+ işlem**)
+
+---
+
+## 📊 GitHub Analitik
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elifnuroksuzz&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elifnuroksuzz&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elifnuroksuzz&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## 🏆 Sertifikalar
+
+* 🎓 Google Project Management (Coursera)
+* 🤖 Artificial Intelligence and Machine Learning (BTK Academy)
+* 📱 Android Development with Kotlin (BTK Academy)
+* 🐍 Python Training (Egesem)
+* 🚀 Entrepreneurship Certificate (KOSGEB)
+
+
+
+## 📫 Bana Ulaş
+
 <p align="center">
   <a href="mailto:elifnuroksuz4@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/elifnuroksuz"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -57,4 +121,8 @@
 
 ---
 
-<p align="center">✨ “Teknolojiyi daha erişilebilir ve faydalı hale getirmek için üretiyorum.” ✨</p>
+<p align="center">✨ “Kod yazarak sadece ürün değil, aynı zamanda değer üretmeyi hedefliyorum.” ✨</p>
+```
+
+---
+
