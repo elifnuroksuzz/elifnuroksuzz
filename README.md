@@ -13,7 +13,6 @@
 name: "Elif Nur ÖKSÜZ"
 role: "Computer Engineer | AI Specialist & Mobile Developer"
 location: "Yalova, Türkiye 🇹🇷"
-current_company: "Quick and Quality (Young Talent Program)"
 education: 
   - "Computer Engineering @ Yalova University (2020–2025)"
   - "International Trade @ Anadolu University (2023–2025)"
