@@ -36,7 +36,7 @@ certifications:
 
 ## 🎯 Mission Statement
 
-> *"AI & Mobile teknolojilerini birleştirerek hayatı kolaylaştıran, erişilebilir ve yenilikçi çözümler geliştiriyorum. Hedefim global ölçekte AI projelerinde yer almak ve teknoloji odaklı girişimler kurarak dünyaya değer katmak."*
+> *"I am developing accessible and innovative solutions that simplify life by integrating AI and Mobile technologies. My goal is to participate in AI projects on a global scale and create value for the world by establishing technology-focused ventures."*
 
 <div align="center">
 
