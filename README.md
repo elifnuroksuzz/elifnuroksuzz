@@ -17,7 +17,6 @@ current_company: "Quick and Quality (Young Talent Program)"
 education: 
   - "Computer Engineering @ Yalova University (2020–2025)"
   - "International Trade @ Anadolu University (2023–2025)"
-experience: "3+ Years in AI & Mobile Development"
 current_focus:
   - "🧠 Advanced NLP & Deep Learning"
   - "📱 Mobile AI Applications"
@@ -30,6 +29,7 @@ certifications:
   - "Android Kotlin Development (BTK Academy)"
   - "Python Training (Egesem)"
   - "Entrepreneurship Certificate (KOSGEB)"
+  - "Quality Engineering and Management Training (Bilginet Academy)"
 ```
 
 ---
